@@ -1,0 +1,5 @@
+asm/demo/SimpleAgent.class
+asm/demo/Calculator.class
+asm/demo/ASMGenerator.class
+util/ReaderUtil.class
+asm/demo/CalculatorTransformer.class

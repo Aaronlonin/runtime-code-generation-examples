@@ -1,0 +1,9 @@
+bytebuddy/demo/DynamicClassCreation.class
+bytebuddy/method/logger/Log.class
+bytebuddy/method/logger/LogInterceptor.class
+bytebuddy/method/logger/Calculator.class
+bytebuddy/demo/RedefineClassExample$Bar.class
+bytebuddy/demo/RedefineClassExample.class
+bytebuddy/demo/RedefineClassExample$Foo.class
+bytebuddy/method/logger/MethodCallLogger.class
+bytebuddy/method/logger/TestAdvice.class
